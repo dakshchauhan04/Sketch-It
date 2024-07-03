@@ -1,0 +1,94 @@
+
+h4{
+    padding: 5px;
+    border-radius: 0.25rem;
+    background-color: white;
+}
+
+.grid-container{
+    
+    display: grid;
+    grid-template-columns: 1fr 4fr 1.5fr;
+    grid-template-rows: 1fr 9fr 1fr;
+    height: 85vh;
+    gap:10px;
+    margin: 10px;
+    position: relative;
+}
+
+.grid-item{
+    display: flex;
+    align-items: center;
+    height: 7vh;
+}
+
+#round{
+    grid-column: 1/4;
+    opacity: 1;
+    padding-top: 7px;
+    padding-left: 4px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+
+#whiteboard{
+    height: auto;
+    background-color: white;
+    border: 4px solid black;
+    overflow: hidden;
+}
+
+#toolBar{
+    grid-column: 2/3;
+    height: auto;
+    color: white;
+}
+
+#tools{
+    display: flex;
+    align-items: center; 
+    margin: auto;
+}
+
+input{
+    width: 5vw;
+}
+
+#colors{
+    margin: auto;
+    padding-right: 20px;
+}
+
+#undoRedo{
+    margin: auto;
+}
+
+#clear{
+    margin: auto;
+}
+
+.popup{
+    position: absolute;
+    text-align: center;
+    width: 60%;
+    z-index: 100;
+    margin-left: 5px;
+}
+
+.word{
+    width: 10%;
+    justify-content: center;
+    margin-left: 26vw;
+}
+
+.header{
+    width: fit-content;
+}
+
+.timer{
+    margin-left: 16vw;
+    width: 8%;
+}
+
+

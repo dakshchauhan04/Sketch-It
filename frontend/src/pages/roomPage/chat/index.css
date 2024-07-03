@@ -1,0 +1,19 @@
+.chatRoom{
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.chat{
+    height: 88%;
+}
+
+.inputText{
+    display: flex;
+    width: auto;
+    justify-content: space-around;
+}
+
+.inputField{
+    width: auto;
+}

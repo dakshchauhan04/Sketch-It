@@ -1,0 +1,37 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+
+
+.item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30vw;
+    height: 45vh;   
+    margin: 25px;  
+    border: 5px solid #D53800; 
+     
+}
+
+input{
+    width:20vw;
+    padding: 5px;
+    margin: 5px;
+}
+
+h2{
+    padding-bottom: 25px;
+    font-size: 50px;
+    font-family: "Bungee Spice", sans-serif;
+    font-style: normal;
+    text-align: center;
+    
+}
+
+
