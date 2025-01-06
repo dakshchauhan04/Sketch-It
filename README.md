@@ -5,4 +5,7 @@ Welcome to **Sketch It!**, an interactive pictionary game application that bring
 - **Real-Time Gameplay**: Draw and guess in real-time with friends and family.  
 - **User-Friendly Interface**: Smooth and intuitive interface designed to enhance user engagement.  
 - **WebSocket Integration**: Seamless real-time communication between players.  
-- **Multiplayer Support**: Play with up to 10 players in a single game.  
+- **Multiplayer Support**: Play with up to 10 players in a single game.
+
+## Demo Video:
+https://github.com/user-attachments/assets/0eb082d2-8fd5-4f4c-8e9a-02f940a326df
