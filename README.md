@@ -1,6 +1,6 @@
 # 🎨 Sketch-It
 Welcome to **Sketch It!**, an interactive pictionary game application that brings the fun of drawing and guessing to your browser! Developed using ReactJS and Vite for the front-end, and Node.js with Express for the back-end, this game supports up to 10 players and offers a seamless real-time gaming experience.
-Sketch It can be accessed through [here]([https://react.dev/learn](https://sketch-it-frontend1.onrender.com/))
+Sketch It can be accessed through [here](https://sketch-it-frontend1.onrender.com/)
 
 ## 🧠 Features:  
 - **Real-Time Gameplay**: Draw and guess in real-time with friends and family.  
