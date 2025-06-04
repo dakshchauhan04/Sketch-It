@@ -9,7 +9,7 @@ import { useEffect, useState } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import sound from "./assests/join-sound.wav";
 
-const server = "http://localhost:5000";
+const server = "https://sketch-it-backend.onrender.com";
 
 const connectionOptions = {
   "force new connection": true,
