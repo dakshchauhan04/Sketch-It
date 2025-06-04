@@ -66,8 +66,6 @@ To deploy the app, you can use:
 
 Make sure to update CORS and environment URLs appropriately in production.
 
----
-
 ## 📚 Learn More
 
 * [React Documentation](https://react.dev/learn)
@@ -75,15 +73,7 @@ Make sure to update CORS and environment URLs appropriately in production.
 * [Node.js Documentation](https://nodejs.org/en/docs/)
 * [Vite Docs](https://vitejs.dev/guide/)
 
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
